@@ -67,7 +67,6 @@ html{
 
 #navbar ul li a:hover {
 	color:rgb(255, 98, 7);
-	/* background:white; */
 	transform: scale(1.2);
 }
 
