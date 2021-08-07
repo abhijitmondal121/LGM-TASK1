@@ -63,8 +63,6 @@ html{
 	text-decoration: none;
 	
 }
-
-
 #navbar ul li a:hover {
 	color:rgb(255, 98, 7);
 	transform: scale(1.2);
